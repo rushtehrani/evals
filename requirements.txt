@@ -1,0 +1,5 @@
+# Core requirements (none - pure Python standard library)
+
+# Optional requirements for extended functionality
+# anthropic>=0.18.0  # For ModelGrader with Claude
+# openai>=1.0.0      # For ModelGrader with GPT models
